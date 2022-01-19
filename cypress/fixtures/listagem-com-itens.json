@@ -1,0 +1,32 @@
+[
+  {
+    "firstName": "Tamires",
+    "lastName": "Ariane",
+    "adress": "Sem endereço",
+    "emailAdress": "qa@test.com",
+    "radioGender": "f",
+    "checks": [
+      "Netflix",
+      "Dormir"
+    ],
+    "selectCountries": "Dinamarca",
+    "selectYears": "2006",
+    "selectMonths": "Janeiro",
+    "pwd": "Alunos@2021"
+  },
+  {
+    "firstName": "Agilizei",
+    "lastName": "Spark",
+    "adress": "Sem endereço",
+    "emailAdress": "qa@test.com",
+    "radioGender": "f",
+    "checks": [
+      "Netflix",
+      "Dormir"
+    ],
+    "selectCountries": "Dinamarca",
+    "selectYears": "2006",
+    "selectMonths": "Janeiro",
+    "pwd": "Alunos@2021"
+  }
+]
